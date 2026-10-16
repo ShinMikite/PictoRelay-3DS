@@ -27,3 +27,4 @@ You need a 3DS with homebrew (custom firmware) and FBI. New to homebrew? See [3d
 ---
 
 The app uses 7 blocks and needs an internet connection.
+Ai assistance was used for porting my original Javascript to C.
